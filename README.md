@@ -29,7 +29,7 @@ After completion and submission of the initial analysis to the school board, I w
 ## School District Analysis Results
 Upon removing Thomas High School's ninth grade students' testing results, we can see slight differences in the following areas:
 
-* District Summary:
+* District Summary:  
       + Number of students included in testing results decreased by 461 (number of students enrolled in ninth grade at Thomas High School)  
       + Average math score decreased by 0.1%  
       + Average reading score remained the same  
