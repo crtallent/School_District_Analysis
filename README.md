@@ -6,12 +6,21 @@ For this project, I was tasked to complete an analysis of 15 high schools within
  * Ensuring completeness of school and student data
  * Calculating total budget for all schools in system
  * Calculating average reading and math testing scores for all students
- * Determining the number of students who passed:
+ * Determining the number and percentage of students who passed:
       + Reading
       + Math
       + Reading and Math
- 
+ * Calculating the number of students per school
+ * Calculating per capita spending for each school
+ * Determining highest and lowest performng school based on test scores
+ * Comparing performance in relation to
+     + Per capita spending
+     + School size
+     + School type
+     
+After completion and submission of the initial analysis to the school board, I was notified that upon review of the analysis by the school board that the original student data appeared to be altered in the csv file I wass provided. They advised that the reading and math scores for the ninth grade students at Thomas High School appeared to be altered. I was asked to replace the data for all ninth grade students at this school with null scores (NaNs) and repeat the school district analysis without these values. 
 
+![Ninth grade scores](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/ninth_grade_png.png)
 
 ## Resources
 - Data Sources: school_complete_csv, students_complete_csv
