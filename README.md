@@ -40,6 +40,4 @@ Upon removing Thomas High School's ninth grade students' testing results, we can
 
 
 
-
-
  ![district summary 1]( https://github.com/crtallent/School_District_Analysis/blob/main/Resources/dist_summ1.png "District Summary with THS ninth graders")         
