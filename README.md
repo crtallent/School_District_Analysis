@@ -27,4 +27,13 @@ After completion and submission of the initial analysis to the school board, I w
 - Software: Python 3.7.11, Jupyter Notebook 7.29.0
 
 ## School District Analysis Results
+Upon removing Thomas High School's ninth grade students' testing results, we can see slight differences in the following areas:
 
+* District Summary:
+      + Number of students included in testing results decreased by 461 (number of students enrolled in ninth grade at Thomas High School)
+      + Average math score decreased by 0.1%
+      + Average reading score remained the same
+      + Percent of students passing math decreaed by 1.1%
+      + Percent of students passing reading decreased by 1.3%
+      + Percent of students passing both math and reading decreased by .1%
+ ![district summary 1]( https://github.com/crtallent/School_District_Analysis/blob/main/Resources/dist_summ1.png "District Summary with THS ninth graders")         
