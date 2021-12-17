@@ -43,4 +43,14 @@ Upon removing Thomas High School's ninth grade students' testing results, we can
  ![district summary 1]( https://github.com/crtallent/School_District_Analysis/blob/main/Resources/dist_summ1.png "District Summary with THS ninth graders") 
  ![district summary 2]( https://github.com/crtallent/School_District_Analysis/blob/main/Resources/dist_summ2.png "District Summary without THS ninth graders") 
  
- * 
+ * School Summary (Thomas High School):
+   + The average math score of Thomas High School students decreased by 0.1%
+   + The average reading score increased by .01%
+   + Percent of students passing math decreased by 0.1%
+   + Percent of students passing reading decreased by 0.3%
+   + Percent of students passing both math and reading decreased by 0.3%
+
+
+![school_summary_1](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/school_summ1.png "School Summary with THS ninth graders")
+![school_summary_2](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/school_summ2.png "School Summary without THS ninth graders")
+
