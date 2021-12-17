@@ -66,3 +66,12 @@ top_schools.head()
 
 ![Top5_1](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/top5_1.png "Top 5 with THS ninth graders")
 ![Top5_2](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/top5_2.png "Top 5 without THS ninth graders")
+
+* Additonal Findings:
+  + Removing the Thomas High School ninth grade students scores did not affect the math and reading scores by grade, scores by school spending, scores by school size  
+    or schools by school type.
+    
+## Summary
+
+After removing Thomas High School's ninth grade students' math and reading scores, the district summary and school summary results were impacted.  The average math score, percent of students passing math, percent of students passing reading, and overall percentage of students passing decreased by 0.1 to .03% for the district summary results.    
+For the school summary results, Thomas High School's results showed a decrease in average math score, percent of students passing math, percent of students passing reading, and overall percentage of students passing decreased by 0.1 to .03%, with average reading score increasing by 0.1%.
