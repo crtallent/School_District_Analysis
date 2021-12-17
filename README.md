@@ -58,9 +58,8 @@ Upon removing Thomas High School's ninth grade students' testing results, we can
   + Thomas High School ranked as number 2 in the Top 5 performing schools with and without the scores of the ninth grade students, even though their overall passing percentage   
     decreased by 0.3%
     
-'''
-# Sort and show top five schools.
+```
 top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
 
 top_schools.head()
-'''
+```
