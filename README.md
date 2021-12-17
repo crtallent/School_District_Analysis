@@ -63,3 +63,6 @@ top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending
 
 top_schools.head()
 ```
+
+![Top5_1](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/school_top5_1.png "Top 5 with THS ninth graders")
+![Top5_2](https://github.com/crtallent/School_District_Analysis/blob/main/Resources/school_top5_2.png "Top 5 without THS ninth graders")
