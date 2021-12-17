@@ -73,5 +73,4 @@ top_schools.head()
     
 ## Summary
 
-After removing Thomas High School's ninth grade students' math and reading scores, the district summary and school summary results were impacted.  The average math score, percent of students passing math, percent of students passing reading, and overall percentage of students passing decreased by 0.1 to .03% for the district summary results.    
-For the school summary results, Thomas High School's results showed a decrease in average math score, percent of students passing math, percent of students passing reading, and overall percentage of students passing decreased by 0.1 to .03%, with average reading score increasing by 0.1%.
+After removing Thomas High School's ninth grade students' math and reading scores, the district summary and school summary results were impacted.  The average math score, percent of students passing math, percent of students passing reading, and overall percentage of students passing decreased by 0.1 to .03% for the district summary results. For the school summary results, Thomas High School's results showed a decrease in average math score, percent of students passing math, percent of students passing reading, and overall percentage of students passing decreased by 0.1 to .03%, with average reading score increasing by 0.1%.
